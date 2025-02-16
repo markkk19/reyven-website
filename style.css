@@ -1,0 +1,73 @@
+body{
+    background-image: url(images/blue.jpg);
+    background-size: cover;
+    margin-left: 50px;
+    
+}
+
+a{
+    padding: auto;
+    color: white;
+}
+.bg{
+    opacity: 0;
+}
+
+.month{
+    padding: 20px;
+    border-radius: 10px;
+    float: left;
+    width: 500px;
+    height: 290px;
+    margin: 10px;
+    color: white;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+caption{
+   text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    background-color:  rgb(59, 100, 236);
+    border: 1px solid rgb(59, 100, 236);
+    border-radius: 5px;
+
+    
+}
+table{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px solid;
+    border-color: rgb(59, 100, 236);
+    height: 100%;
+    width: 110%;
+    border-collapse: collapse;
+    table-layout: center;
+     
+}
+.month td{
+    font-size: 20px;
+    border: 1px solid rgb(59, 100, 236);
+    font-weight: bold;
+    
+    
+}
+.month th{
+    font-size: 25px;
+    border: 1px solid rgb(59, 100, 236);
+    background-color:  #3e5277;
+}
+td:hover{
+    background-color:  rgb(59, 100, 236);
+}
+th:hover{
+    background-color:  rgb(59, 100, 236);
+
+}
+a{
+    color: red;
+}
