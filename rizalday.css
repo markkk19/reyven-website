@@ -1,0 +1,26 @@
+body{
+    font-family: 'Arial', sans-serif;
+    background-image: url(pics/rizal.jfif);
+    background-size: cover;
+    text-align: center;
+    margin: 0;
+}
+header{
+color:white;
+font-size: 80px;
+text-shadow: 3px 3px  blue;
+}
+h1{
+    font-size: 100px;
+    margin: 50px;
+    text-shadow: 3px 3px  blue;
+    margin-top: 150px;
+}
+p{
+    font-size: 40px;
+    color: white;
+    text-shadow: 3px 3px  blue;
+    margin-top: 160px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
